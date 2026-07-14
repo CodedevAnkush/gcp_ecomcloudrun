@@ -32,7 +32,7 @@ def travel_booking_cicd(request):
     logger.info('Name extract process completed.')
 
     logger.info( 'Application Exit')
-    return f"Hello {name}!"
+    return f"Hello My friend my name is Ankush Bansal How are you?{name}!"
   
 
     
